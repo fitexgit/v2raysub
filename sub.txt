@@ -1,6 +1,6 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📅 تاریخ به‌روزرسانی: ۲۵ خرداد ۱۴۰۵
-⏰ زمان: ۱۱:۵۷ (به وقت تهران)
+⏰ زمان: ۱۱:۵۹ (به وقت تهران)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 vless://Telegram-Parsashonam@195.201.249.68:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=firefox&pbk=rd71EGp4BCn3x_hIoaYi5R6GaqF9TIA4F6t5WyOPaXc&sid=83dc602558&spx=%2FYtQ58V1AZ8fExyr&type=tcp&headerType=none#%F0%9F%8E%89%20%40oxnet_ir%20%7C%20v2ray%201
